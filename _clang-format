@@ -1,0 +1,15 @@
+BasedOnStyle: LLVM
+AccessModifierOffset: -4
+AllowAllConstructorInitializersOnNextLine: false
+# AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: InlineOnly
+AlwaysBreakTemplateDeclarations: Yes
+# BinPackArguments: false
+# BinPackParameters: false
+ColumnLimit: 80
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+IndentWidth: 4
+MaxEmptyLinesToKeep: 2
+PointerAlignment: Left
+SortIncludes: false
+TabWidth: 4
